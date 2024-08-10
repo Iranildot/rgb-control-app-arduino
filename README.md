@@ -29,8 +29,7 @@ python rgb_control_app.py
 ```
 - Connect your Arduino board, select the correct port in the application interface, and start controlling the RGB LEDs.
 
-Screenshots
-(Add screenshots of the application interface)
+![image](https://github.com/user-attachments/assets/e1d103e8-9b31-4b01-97e3-2198ad8d360e)
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests.
